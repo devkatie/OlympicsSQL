@@ -1,0 +1,4 @@
+CREATE TABLE MOVIEDIRECTOR (
+    DirectorID INTEGER,
+    MovieID INTEGER
+);

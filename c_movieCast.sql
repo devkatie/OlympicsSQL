@@ -1,0 +1,5 @@
+CREATE TABLE MOVIECAST (
+    ActorID INTEGER,
+    MovieID INTEGER,
+    Pay NUMBER(7)
+);

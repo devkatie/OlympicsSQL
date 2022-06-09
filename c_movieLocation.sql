@@ -1,0 +1,4 @@
+CREATE TABLE MOVIELOCATION (
+    LocationID INTEGER,
+    MovieID INTEGER
+);

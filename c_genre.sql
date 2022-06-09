@@ -1,0 +1,4 @@
+CREATE TABLE GENRE (
+    GenreID INTEGER,
+    GenreName VARCHAR2(16)
+);
